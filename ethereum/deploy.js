@@ -4,8 +4,8 @@ const compiledRecord = require('./build/Record.json');
 
 //Link to rinkeby network by using Infura and providing seed phrase of metamask wallet
 const provider = new HDWalletProvider(
-    'ivory honey fix online income decorate also top wish civil decorate illegal',
-    'https://rinkeby.infura.io/v3/cae3e4c525ba4a75b6ae9ffe89ca6160',
+    'tribe rapid gaze pear latin story original audit multiply nuclear pear still',
+    'https://eth-goerli.g.alchemy.com/v2/0lcqTeUCXtZ6UyPZiM-AdUd8TUNQRHjZ',
 );
 
 const web3 = new Web3(provider);
